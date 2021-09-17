@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Engineering at the National University of Distance Education (**UNED**).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about Master Software Development, Artificial Intelligence, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I like play 🎮videogames, 🎥movies, and 🏋️‍♂️train.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
