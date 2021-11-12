@@ -35,6 +35,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a target="_blank" href="https://sgarcia.netlify.app/" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/-sgarcia-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a target="_blank" href="https://sgarciadev.vercel.app/" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/-sgarciadev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/sgarciadev/" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/-Steven%20Garcia%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
