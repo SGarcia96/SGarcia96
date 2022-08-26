@@ -28,7 +28,7 @@
 </div>
 <br /><br />
 <div align="center">
-<h3 align="center" style="color:#BD93F9">A Enthusiast of web technologies: Java, Spring, JavaScript, Kotlin, etc.</h3>
+<h3 align="center" style="color:#BD93F9">A Enthusiast of technologies: Java, Spring, JavaScript, Kotlin, etc.</h3>
 </div>
 
 <br />
