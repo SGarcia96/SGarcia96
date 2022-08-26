@@ -7,7 +7,7 @@
 
 - 👨‍💻  Software Engineer (actually working with Spring microservices architecture)
 
-- 🌱  I’m currently learning **Kotlin 😎** and **Android development** ⚙️
+- 🌱  I’m currently learning **Kotlin 😎** and **Android development** 📱
 </div>
 <br /><br /><br /><br />
 
