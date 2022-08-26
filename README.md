@@ -1,4 +1,4 @@
-<h1>👋 Hi! I'm Steven</h1>
+<h1 align=center>👋 Hi! I'm Steven</h1>
 
 <div>
 <img class="profile" align="left" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Github profile avatar" height="250px"/>
