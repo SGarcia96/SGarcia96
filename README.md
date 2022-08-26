@@ -1,40 +1,50 @@
 <h1>👋 Hi! I'm Steven</h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+<div>
+<img class="profile" align="left" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Github profile avatar" height="250px"/>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Engineering at the National University of Distance Education (**UNED**).\
-🌱 &nbsp;I'm on track for learning more about Master Software Development, Artificial Intelligence, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I like play 🎮videogames, 🎥movies, and 🏋️‍♂️train.
+- 🔭  I like to explore new technologies and develop software solutions and quick hacks
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+- 👨‍💻  Software Engineer (actually working with Spring microservices architecture)
 
-### 🛠 &nbsp;Tech Stack
+- 🌱  I’m currently learning **Kotlin 😎** and **Android development** ⚙️
+</div>
+<br /><br /><br /><br />
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![SQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+<div align="center" style="margin: 2rem auto;">
+<p align="center" style="display: flex; justify-content: center; gap: 1rem;">
+    <a href="mailto:stevengarciasb@gmail.com">
+    <img align="left" alt="Steven García Email" width="27px" src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/sgarciadev">
+    <img align="left" alt="Steven García Linkedin" width="27px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />
+    </a>
+    <a href="https://discordapp.com/users/NakedGarcia#0201">
+    <img align="left" alt="Abhishek's Discord" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    </a>
+    <a href="https://twitter.com/SGarciadev">
+    <img align="left" alt="Steven García | Twitter" width="27px" src="https://img.icons8.com/cotton/64/000000/twitter.png" />
+    </a>
+</p>
+</div>
+<br /><br />
+<div align="center">
+<h3 align="center">A Enthusiast of web technologies: Java, Spring, JavaScript, Kotlin, etc.</h3>
+</div>
 
-### ⚙️ &nbsp;GitHub Analytics
+<br />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SGarcia96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SGarcia96&layout=compact&langs_count=8&theme=algolia"/>
+### 🤝🏻 &nbsp;GitHub Analytics
+
+<div align="center" >
+<a  href="https://github.com/SGarcia96">
+<img src="https://raw.githubusercontent.com/SGarcia96/SGarcia96/main/profile-summary-card-output/dracula/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SGarcia96/SGarcia96/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SGarcia96/SGarcia96/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="32.5%">
 </a>
-</p>
+</div>
 
-### 🤝🏻 &nbsp;Connect with Me
+<br />
 
-<p align="center">
-<a target="_blank" href="https://sgarciadev.vercel.app/" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/-sgarciadev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/sgarciadev/" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/-Steven%20Garcia%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
+<div align="center" style="text-align: center; margin: 2rem auto;">
+<img align="center" src="https://raw.githubusercontent.com/SGarcia96/SGarcia96/main/profile-summary-card-output/dracula/0-profile-details.svg" >
+</div>
