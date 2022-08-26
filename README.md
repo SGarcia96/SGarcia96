@@ -28,12 +28,10 @@
 </div>
 <br /><br />
 <div align="center">
-<h3 align="center">A Enthusiast of web technologies: Java, Spring, JavaScript, Kotlin, etc.</h3>
+<h3 align="center" style="color:#BD93F9">A Enthusiast of web technologies: Java, Spring, JavaScript, Kotlin, etc.</h3>
 </div>
 
 <br />
-
-### 🤝🏻 &nbsp;GitHub Analytics
 
 <div align="center" >
 <a  href="https://github.com/SGarcia96">
