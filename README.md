@@ -5,9 +5,9 @@
 
 - 🔭  I like to explore new technologies and develop software solutions and quick hacks
 
-- 👨‍💻  Software Engineer (actually working with Spring microservices architecture)
+- 👨‍💻  Software Engineer (actually working as Backend engineer)
 
-- 🌱  I’m currently learning **Rust 🦀** and **Android development** 📱
+- 🌱  I’m currently learning **Go 🐨** and **Game development 🎮 with Unreal Engine 5**
 </div>
 <br /><br /><br /><br />
 
